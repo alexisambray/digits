@@ -46,4 +46,6 @@ int main() {
   scanf("%d", &newDigit);
   input = changeDigit(input, changePlace, newDigit);
   printf("\nThe new number is : %d\n", input);
+    
+  return 0;
 }
